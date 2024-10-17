@@ -1,0 +1,5 @@
+Berikut saya lampirkan hasil Soal Tes yang sudah saya kerjakan.
+
+Untuk soal Backend, Saya sudah membuat api untuk login, tetapi saya belum membuat tampilan frontendnya. Namun untuk poin lainnya, saya sudah buatkan frontendnya. 
+
+Terima kasih.
